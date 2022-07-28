@@ -104,7 +104,7 @@ const Portfolio = () => {
                     <h4 className="text-[18px] font-bold"><span className="text-[#0bceaf]">Layag Travel Tour</span> - Full Stack App</h4>
                     <p>HTML,CSS, Javascript, React, Node, Express & MongoDB</p>
                     <p className="my-5">This is a full travel application exclusive here on the Philipphines. This website is created using MERN Stack and it can function like any normal travel app.</p>
-                    <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://memory-game14.herokuapp.com/"  target="_blank" rel="noreferrer">Visit Site</a> </button>
+                    <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://62e2dd6e4844471ccf13f227--lively-gumption-2fffc2.netlify.app/"  target="_blank" rel="noreferrer">Visit Site</a> </button>
                 </div>
                 <div className="w-[500px] h-[300px] text-left">
                     <img className="object-cover w-full h-full text-left" src={Project7} alt="Project1"/>
