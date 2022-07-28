@@ -93,7 +93,7 @@ const Portfolio = () => {
                     <h4 className="text-[18px] font-bold"><span className="text-[#0bceaf]">Cloud Sky</span></h4>
                     <p>HTML,CSS, Javascript, React, Node, Express & MongoDB</p>
                     <p className="my-5">This is a soon to be filipino novel website where filipino artist can showcase their talents in creating web novels.</p>
-                    <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://fluffy-breadpan.herokuapp.com/"  target="_blank" rel="noreferrer">Visit Site</a> </button>
+                    <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://cloudsky-webnovel.herokuapp.com/"  target="_blank" rel="noreferrer">Visit Site</a> </button>
                 </div>
             </div>
         </div>
