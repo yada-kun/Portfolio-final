@@ -47,7 +47,7 @@ const Portfolio = () => {
                 <div className="w-[550px] text-left p-5">
                     <h4 className="text-[18px] font-bold"><span className="text-[#0bceaf]">Pokemon Pokedex</span> - App</h4>
                     <p>HTML,CSS, Javascript & React</p>
-                    <p className="my-5">This is a static website using HTML, CSS & React. This is a mini pokedex website that gathers all the data of all most all pokemons. User just needs to choose a pokemon type category and it will display all the pokemons in that specific type.</p>
+                    <p className="my-5">This is a website using HTML, CSS & React. This is a mini pokedex website that gathers all the data of all most all pokemons. User just needs to choose a pokemon type category and it will display all the pokemons in that specific type.</p>
                     <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://pokemon-pokedexapp.herokuapp.com/pokemon" target="_blank" rel="noreferrer" >Visit Site</a> </button>
                     <button className="bg-blue-500 w-[120px] mx-5 text-white hover:bg-red-700 h-[30px]"><a href="https://github.com/yada-kun/Project-3" >Git Hub</a> </button>
                 </div>
