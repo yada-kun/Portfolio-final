@@ -66,7 +66,7 @@ const Portfolio = () => {
                 <div className="w-[550px] text-left p-5 px-5">
                     <h4 className="text-[18px] font-bold"><span className="text-[#0bceaf]">Task Application</span></h4>
                     <p>HTML,CSS, Javascript & React</p>
-                    <p className="my-5">I have created a simple Task Applciation using React.js. Where it can add, delete and edit tasks just like a normal Task App</p>
+                    <p className="my-5">I have created a simple Task Application using React.js. Where it can add, delete and edit tasks just like a normal Task App</p>
                     <button className="bg-blue-500 w-[120px] text-white hover:bg-red-700 h-[30px]"><a href="https://todolist-app14.herokuapp.com/" target="_blank" rel="noreferrer">Visit Site</a> </button>
                     <button className="bg-blue-500 w-[120px] mx-5 text-white hover:bg-red-700 h-[30px]"><a href="https://github.com/yada-kun/Project-4" >Git Hub</a> </button>
                 </div>
